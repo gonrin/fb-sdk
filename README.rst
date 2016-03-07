@@ -26,15 +26,11 @@ If you have bugs or other issues specifically pertaining to this library, file
 them `here`_. Bugs with the Graph API should be filed on `Facebook's
 bugtracker`_.
 
-.. _here: https://github.com/pythonforfacebook/facebook-sdk/issues
+.. _here: https://github.com/gonrin/fb-sdk/issues
 .. _Facebook's bugtracker: https://developers.facebook.com/bugs/
 
 
 Support & Discussion
 ====================
 
-Documentation is available at https://facebook-sdk.readthedocs.org/en/latest/.
-
-Have a question? Need help? Visit the library's `Google Group`_.
-
-.. _Google Group: https://groups.google.com/group/pythonforfacebook
+Documentation is available at https://fb-sdk.readthedocs.org/en/latest/.
